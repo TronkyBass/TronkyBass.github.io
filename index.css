@@ -1,0 +1,15 @@
+body{; background-color: whitesmoke; color: black; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+.datos { float: right;margin-right: 26px;padding-top: 18px}
+h2{text-align:left;padding-left: 10px;padding-top: 1px;}
+.divisor{border: black solid 1px; margin-top: 10px;margin-bottom: 25px;margin-left: 4px;margin-left: 4px; }
+.grado{line-height: 5px;}
+.fechas{float: right;margin-right: 15px;}
+li{text-align: left;font-size: 13px; list-style-type:disc}
+.worck{text-align: left;font-size: 14px; margin-top: 20px;margin-bottom: 20px;}
+.deswork{text-align: left;font-size: 13px;}
+.deswork1{text-align: left;font-size: 13px; margin: 0.8%;}
+.General{ width: 80%;margin: auto;padding: 0 7px;}
+.feather {color: black; }
+.feather:hover { color: #4592b6; cursor: pointer; transition-duration: 0.4s} 
+.refe{font-size: 13px;margin-top: 0%;}
+ref{font-size:  15px;}
