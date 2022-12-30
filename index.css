@@ -1,7 +1,7 @@
 body{; background-color: whitesmoke; color: black; font-family: "Lexend Deca",sans-serif;}
 .General{ text-decoration:none;width: 70%;margin: auto;padding: 0 7px; "Lexend Deca",sans-serif;}
 .datos { float: right;margin-right: 26px;padding-top: 18px}
-h2{text-align:left;padding-left: 10px;padding-top: 1px;}
+h2{text-align:left;padding-left: 10px;padding-top: 1px; font-family: inherit}
 .divisor{border: black solid 1px; margin-top: 10px;margin-bottom: 25px;margin-left: 4px;margin-left: 4px; }
 .grado{line-height: 5px;}
 .fechas{float: right;margin-right: 15px;}
