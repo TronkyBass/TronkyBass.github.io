@@ -1,9 +1,9 @@
 body{margin: 40px;font-family: 'Montserrat Alternates' ;text-align: left;background-color:#2C3333;color: #CBE4DE; width: 80%;margin: auto; }
-.divisor1{border: 2px solid;border-radius: 20px;background: antiquewhite;margin-top: 0%; margin-bottom: 50px;}
-.divisor{border: 2px solid;border-radius: 20px;background: antiquewhite; margin-top: 30px; margin-bottom: 50px;}
-.feather{color:antiquewhite;}
+.divisor1{border: 2px solid;border-radius: 20px;background: #CBE4DE;margin-top: 0%; margin-bottom: 50px;}
+.divisor{border: 2px solid;border-radius: 20px;background: #CBE4DE; margin-top: 30px; margin-bottom: 50px;}
+.feather{color:#CBE4DE;}
 span{float: right;}
-.feather:hover{color: #4592b6; cursor: pointer; transition-duration: 0.4s }
+.feather:hover{color: #0E8388; cursor: pointer; transition-duration: 0.4s }
 h2{margin-top: 30px;}
 .grado1{margin-top: 1px; text-align: left;}
 a{text-decoration: none;}
